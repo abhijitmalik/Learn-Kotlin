@@ -4,7 +4,7 @@ import android.content.Context
 import android.util.Log
 import android.widget.Toast
 
-class MyLearning {
+class MyLearningNew {
 
 
     fun  LearnBirthGretting():String{

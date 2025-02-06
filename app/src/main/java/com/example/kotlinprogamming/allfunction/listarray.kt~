@@ -1,0 +1,21 @@
+package com.example.kotlinprogamming.allfunction
+
+class listarray {
+    fun arraylist(position: Int):String{
+        var ArrayList = arrayOf<String>("Rover1, Rover2, Rover2, Rover4, Rover5")
+
+
+        ArrayList.set(1,"test1")
+
+        return ArrayList[position]
+
+    }
+
+  fun rangearray(){
+      
+  }
+
+
+
+
+}
